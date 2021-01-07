@@ -1,4 +1,4 @@
-package chapter2.unnecessary_objects;
+package chapter2.unnecessaryobjects;
 
 import java.util.regex.Pattern;
 /*

@@ -1,6 +1,6 @@
-package chapter2.static_factory;
+package chapter2.staticfactory;
 
-import static chapter2.static_factory.ChickenType.*;
+import static chapter2.staticfactory.ChickenType.*;
 
 public class Chicken {
     ChickenType type;

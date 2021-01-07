@@ -1,4 +1,4 @@
-package chapter2.memory_leak;
+package chapter2.memoryleak;
 
 import java.util.Arrays;
 import java.util.EmptyStackException;

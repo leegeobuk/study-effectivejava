@@ -1,4 +1,4 @@
-package chapter6.enum_practice;
+package chapter6.enumpractice;
 
 public enum AdvancedOperation implements Operation {
     EXP("^") {

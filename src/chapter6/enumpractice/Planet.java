@@ -1,4 +1,4 @@
-package chapter6.enum_practice;
+package chapter6.enumpractice;
 
 public enum Planet {
     MERCURY(3.302e+23, 2.439e6),

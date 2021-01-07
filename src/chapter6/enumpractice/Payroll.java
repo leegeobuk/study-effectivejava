@@ -1,4 +1,4 @@
-package chapter6.enum_practice;
+package chapter6.enumpractice;
 
 public enum Payroll {
     MONDAY(PayType.WEEKDAY), TUESDAY(PayType.WEEKDAY), WEDNESDAY(PayType.WEEKDAY),
